@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到展铭的个人网站
 
-You can use the [editor on GitHub](https://github.com/Zhanming2/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+由于该网页是由githubpages支持的，所以只能显示静态内容，但也不耽误各位浏览。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
